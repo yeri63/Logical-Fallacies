@@ -4,7 +4,7 @@
 ![Screenshot of Logical Fallacies](https://github.com/yeri63/Logical-Fallacies/blob/master/fallacies.png)
 </div>
 <p>A logical fallacy is a flaw in reasoning that makes an argument invalid, unsound, or misleading, even if it sounds convincing at first glance. Instead of relying on real evidence or sound logic, a fallacious argument uses tricky language, emotional manipulation, or structural errors to trick you into accepting a conclusion.</p>
-<p>Here's a sample of some of these arguments...</p>
+<p>Here are a few examples...</p>
 <div aligh="center">
 
 Fallacy | Description | Example
